@@ -1,0 +1,34 @@
+.container-fluid{
+    margin-top: 5rem;
+}
+
+.own-copyright{
+    background-color: rgb(37, 88, 82);
+    color : rgb(173, 223, 217);
+}
+.own-copyright a{
+    text-decoration: none;
+    color: rgb(61, 187, 172);
+}
+.own-copyright a:hover{
+    color: #FFF;
+}
+
+.footer-contents{
+    padding: 1rem;
+    background-color: rgba(60, 134, 126, 0.829);
+}
+.footer-contents h5{
+    position: relative;
+    left: 25px;
+}
+.footer-contents ul{
+    list-style: none;
+}
+.footer-contents a{
+    text-decoration: none;
+    color: rgb(2, 48, 42);
+}
+.footer-contents a:hover{
+    color: #FFF;
+}
